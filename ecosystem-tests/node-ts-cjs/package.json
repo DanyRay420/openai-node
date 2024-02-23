@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "formdata-node": "^4.4.1",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.7.0",
     "tsconfig-paths": "^4.0.0"
   },
   "devDependencies": {
